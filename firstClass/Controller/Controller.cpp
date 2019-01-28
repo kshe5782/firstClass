@@ -17,7 +17,7 @@ void Controller :: start()
 {
     cout << "this is epic" << endl;
     cout << "You like Arby's curly fries?" << endl;
-    cout << "I have a " << specialNumber << " inch weenie" << endl;
+    cout << "I have a " << specialNumber << " inch salami sword" << endl;
     string input;
     cout << "how big is yours?" << endl;
     cin >> input;
